@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 
 @Component({
   selector: 'movies',
-  templateUrl: 'movies.component.html'
+  templateUrl: 'movies.component.html',
 
 })
 
